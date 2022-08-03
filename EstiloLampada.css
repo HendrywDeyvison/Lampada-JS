@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+header,main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+button{
+    width: 80px;
+    margin-top: 5px;
+    cursor: pointer;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#lampada{
+    cursor: progress;
+}
